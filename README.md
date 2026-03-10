@@ -1,5 +1,17 @@
 # Telegram Joke Bot
 just a fun bot for when you feel sad and want to hear a joke.
-# How to Use
-1. Clone the repository:
-```bashgit clone 
+# Features
+- makes random jokes
+- give you laughs
+
+# Commands
+- /start
+- /joke
+- /help
+- /count
+
+  # What does each command do
+  - /start - start the bot
+  - /joke - give you a random joke
+  - /help - show this message
+  - /count - count how many jokes you received
