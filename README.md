@@ -1,3 +1,4 @@
+[![Open in Telegram](https://img.shields.io/badge/Telegram-Open-blue?logo=telegram)](https://t.me/joke_teeler_bot)
 # Telegram Joke Bot
 just a fun bot for when you feel sad and want to hear a joke.
 ---
